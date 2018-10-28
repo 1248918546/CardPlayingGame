@@ -1,5 +1,6 @@
 # CardPlayingGame
 基于xcode下objective-c开发的简易卡牌匹配游戏。
+following cs193p lecture2
 
 ## 开发环境
 
